@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-- 🔗 Home - Will come soon 😛
+- 🔗 Home - https://shubhamverma.dev/
 - 😎 Stack - Javascript/Reactjs and some other technologies. But open to learn new stack as well!
 - 🌱 I’m currently learning Svelte 
 - 🤔 About me - Have more than 2+ experience in software development. Apart from coding. I am die hard fan of anime and gaming.
