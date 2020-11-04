@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Svelte 
 - 🤔 About me - Have more than 2+ experience in software development. Apart from coding. I am die hard fan of anime and gaming.
 - 💬 Ask me about anything, I'm happy to help!
+- 😄 Pronouns: he/him 🙋🏻‍♂️
 - 💌 How to reach me: shubhamv8527@gmail.com
 - 🐦 Follow me [@shubham2133](https://twitter.com/shubham2133)
 - ⚡ Check out my [stackoverflow](https://stackoverflow.com/users/11511722/shubham-verma) profile. I am active there. Yes I help there as well!
