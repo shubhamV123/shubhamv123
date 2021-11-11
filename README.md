@@ -2,8 +2,8 @@
 
 - 🔗 Home - https://shubhamverma.dev/
 - 😎 Stack - Javascript/Reactjs and some other technologies. But open to learn new stack as well!
-- 🌱 I’m currently learning Svelte 
-- 🤔 About me - Have more than 2+ experience in software development. Apart from coding. I am die hard fan of anime and gaming.
+- 🌱 I’m currently learning docker 
+- 🤔 About me - Have more than 3+ experience in software development. Apart from coding. I am die hard fan of anime and gaming.
 - 💬 Ask me about anything, I'm happy to help!
 - 😄 Pronouns: he/him 🙋🏻‍♂️
 - 💌 How to reach me: shubhamv8527@gmail.com
