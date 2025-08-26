@@ -24,8 +24,7 @@
   - Reduced JS payloads drastically with Brotli & asset optimization, improving Core Web Vitals.  
 
 - 🌍 **Open Source**:  
-  - Contributed to [Snowpack](https://github.com/pikapkg/snowpack/pull/493), [youmightnotneed](https://github.com/cedmax/youmightnotneed), and other OSS projects.  
-  - Actively maintain internal AI + frontend tooling projects.  
+  - Contributed to [mastra-ai](https://github.com/mastra-ai/mastra/pull/6583), [Snowpack](https://github.com/pikapkg/snowpack/pull/493), [youmightnotneed](https://github.com/cedmax/youmightnotneed), and other OSS projects.    
 
 ---
 
