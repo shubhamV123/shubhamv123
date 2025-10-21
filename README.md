@@ -3,7 +3,7 @@
 - 🔗 Home: [shubhamverma.dev](https://shubhamverma.dev/)  
 - 😎 Tech Stack: Advanced in **JavaScript, React, Next.js, TypeScript** with deep experience in **AI Agentic Workflows** (LangChain, LangGraph, CrewAI, Agno).  
 - 🤖 Current Focus: Building **AI-powered products** — RAG systems, multi-agent workflows, and scalable frontend architectures that blend **React + AI**.  
-- 💡 About Me: 10+ years in software development (7+ professional), passionate about **cutting-edge AI**, system design, and crafting **production-grade solutions**. Big fan of anime 🎌 and gaming 🎮.  
+- 💡 About Me: 8+ years in software development, passionate about **cutting-edge AI**, system design, and crafting **production-grade solutions**. Big fan of anime 🎌 and gaming 🎮.  
 - 💌 Reach Me: [shubhamv8527@gmail.com](mailto:shubhamv8527@gmail.com)  
 - 🐦 Follow me on [Twitter @shubham2133](https://twitter.com/shubham2133)  
 - ⚡ Active on [StackOverflow](https://stackoverflow.com/users/11511722/shubham-verma) — sharing knowledge and solving problems.  
